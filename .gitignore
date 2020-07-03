@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/JwtApplication
+/JwtApplication.Api/.vs/JwtApplication
+/JwtApplication.Api/bin/Debug/netcoreapp3.0
+/JwtApplication.Api/obj
+/JwtApplication.Services/bin/Debug/netcoreapp3.0
+/JwtApplication.Services/obj
